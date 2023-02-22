@@ -7,4 +7,4 @@ I chose to use Apache NiFi, CDC(Debezium), Kafka (MSK), Spark Structural Streami
 Some of the layers were not necessary to complete the final outcome and I could have condensed the pipeline into a more compact and streamlined format but I chose to use these technologies for learning purposes.
 
 
-
+![](https://github.com/quinlayen/BusKafkaSparkStreaming/blob/master/architecture_diagram.png)
